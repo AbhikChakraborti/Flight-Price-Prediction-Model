@@ -1,6 +1,6 @@
 # Flask-Course Project
 
-## This is a Flight Price Prediction Model build by using Flask and it's components.
+## This is a Price Prediction Model build by using Flask and it's components.
 
 ### Steps:
 
