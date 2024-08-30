@@ -1,5 +1,7 @@
 # Flask-Course Project
 
+[Model Link]- [Here](https://flask-course-ml-project-7z87.onrender.com)
+
 ## This is a Flight Price Prediction Model build by using Flask and it's components.
 
 ### Steps:
